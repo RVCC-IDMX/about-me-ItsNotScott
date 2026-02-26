@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Share+Tech&display=swap');
+
+/* Comment */
+h1,h2,h3,h4 {
+Font-family: "Bebas Neue";
+font-size: 250%
+}
+
+body {
+    font-family: "Share Tech";
+    background-color: #006CE0;
+    color: #F5F5F5;
+}
+
+header, h2, div {
+    text-align:center;
+}
+
+h1,h2,h3 {
+    border:10px solid #F5F5F5;
+    border-radius:10px;
+    text-align: center;
+    background-color: #006CE0;
+    color: #F5F5F5;
+    padding:10px;
+}
+
+#hero {
+    text-align: center;
+    background-color: #006CE0;
+    color: #F5F5F5;
+    padding:10px;
+}
+#hero img {
+    width:350px;
+    max-width:100%;
+}
+
+footer {
+    text-align: center;
+}
+
+h4 {
+    border:10px solid #F5F5F5;
+    border-radius:10px;
+    text-align: center;
+}
