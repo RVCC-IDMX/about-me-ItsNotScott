@@ -17,7 +17,7 @@ header, h2, div {
 }
 
 h1,h2,h3 {
-    border:10px solid #F5F5F5;
+    border:7.5px solid #F5F5F5;
     border-radius:10px;
     text-align: center;
     background-color: #006CE0;
@@ -41,7 +41,12 @@ footer {
 }
 
 h4 {
-    border:10px solid #F5F5F5;
+    border:7.5px solid #F5F5F5;
     border-radius:10px;
     text-align: center;
+}
+
+test {
+    width:600px;
+    
 }
