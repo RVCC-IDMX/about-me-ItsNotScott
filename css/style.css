@@ -90,4 +90,21 @@ test {
   font-style: italic;
 }
 
+.article-section {
+  padding: 20px;
+  background-color: #fafafa;
+  margin: 20px 0;
+  border-left: 5px solid #333;
+}
+
+.article-section h2 {
+  margin-bottom: 15px;
+}
+
+.article-section p {
+  line-height: 1.6;
+  margin-bottom: 10px;
+
+}
+
 }
